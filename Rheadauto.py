@@ -5,13 +5,6 @@ Hiroaki Kikuchi
 Fibrous Biomaterials Lab, Division of Forest and Biomaterials Science, Kyoto Univ.
 '''
 
-'''
-change log
-*ver.1.2
-goniovectors: rot or 3D => 1, st => -1
-
-'''
-
 print '\n*******************************'
 print '           Rheadauto'
 print '*******************************'
@@ -45,7 +38,7 @@ print ''
 y_or_n = raw_input("Is the order of files correct?(y/n)\n")
 if y_or_n == 'y':
 	# get input
-	gonio_vec_inp = raw_input('Rotating or 3D? (y/n)\n')#edited
+	gonio_vec_inp = raw_input('Rotating or 3D? (y/n)\n')
 	if gonio_vec_inp == 'y':
 		gonio_vec = 1.000000
 	elif gonio_vec_inp == 'n':
