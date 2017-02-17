@@ -6,7 +6,7 @@ Program for editing headers(Gonio vecters and 3 angles) of Rigaku RAPID img file
 
 ## Description
 
-For private use and for my co-worker.
+Mainly for private use and for my co-worker.
 
 
 
